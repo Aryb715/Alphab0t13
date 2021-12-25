@@ -1,16 +1,15 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY SHANDY JB
+return `PAYMENT BY SONNY JB
 
 *💰 E-MONEY*
 
 1. GOPAY
 	ㅁ 08** **** ****
-2. OVO
-	ㅁ 0817 7929 8306
-3. DANA
-	ㅁ 0817 7929 8306
+
+2. DANA
+	ㅁ 082350460564
 	
-Semuanya atas nama S***** JB
+Semuanya atas nama JAS**NURMALA
 
 *📲 PULSA*
 
