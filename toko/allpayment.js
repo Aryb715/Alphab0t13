@@ -11,9 +11,7 @@ return `PAYMENT BY SONNY JB
 	
 Semuanya atas nama JAS**NURMALA
 
-*📲 PULSA*
 
-Tidak tersedia
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
