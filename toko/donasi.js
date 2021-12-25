@@ -5,12 +5,11 @@ return `DONASI BISA VIA E-MONEY
 
 1. GOPAY
 	ㅁ 08** **** ****
-2. OVO
-	ㅁ 0817 7929 8306
-3. DANA
-	ㅁ 0817 7929 8306
 	
-Semuanya atas nama R***** JB
+2. DANA
+	ㅁ 082350460564
+	
+Semuanya atas nama Jas***
 `
 	}
 
